@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#FF637DC6</color>
+    <color name="dark">#FF2C3E50</color>
+    <color name="navy">#40739e</color>
+    <color name="hijau">#10ac84</color>
+    <color name="hijau1">#7bed9f</color>
+    <color name="putih">#ced6e0</color>
+    <color name="yellow">#ccae62</color>
+    <color name="abu1">#d1ccc0</color>
+    <color name="abu2">#aaa69d</color>
+
+</resources>

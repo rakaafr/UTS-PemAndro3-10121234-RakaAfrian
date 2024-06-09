@@ -1,0 +1,74 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/abu2"
+    tools:context=".GalleryFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="100dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginBottom="180dp"
+        android:background="@drawable/poto1" />
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginBottom="180dp"
+        android:background="@drawable/poto2" />
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="100dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="0dp"
+        android:background="@drawable/poto3" />
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="210dp"
+        android:layout_marginBottom="180dp"
+        android:background="@drawable/poto4" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/galery"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="100dp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="410dp"
+        android:layout_marginBottom="180dp"
+        android:background="@drawable/poto5" />
+
+
+</FrameLayout>
+
+    //  10 juni - 10121234 - Raka Afrian Nurhakim- PemAndro3

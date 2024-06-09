@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Cloud Computing</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profil">Profile</string>
+    <string name="desk">Saya adalah seorang mahasiswa di Universitas Komputer Indonesia, yang sedang menempuh studi di bidang Teknik Informatika semester 6. Saya memiliki minat besar dalam bidang Teknologi dan Ingin menjadi pengusaha. </string>
+    <string name="interest">Interest</string>
+    <string name="hobby">Hobby saya adalah Traveling dan bermain game</string>
+    <string name="makanan">Makanan Kesukaan saya Mie ayam, Bakso dan Nasi goreng</string>
+    <string name="minuman">Minuman Kesukaan saya Es teh, Kopi susu dan Jus</string>
+    <string name="minat">Minat saya menjadi Pengusaha atau Data since</string>
+    <string name="citacita">Cita cita saya membahagiakan orang tua :)</string>
+
+    <string name="daily">Daily Activity</string>
+    <string name="sarapan">Sarapan/Makan</string>
+    <string name="kuliah">Menuntut Ilmu/Berkuliah</string>
+    <string name="nongkrong">Nongkrong bersama teman-teman</string>
+    <string name="game">Bermain Game</string>
+    <string name="friend">Friend List</string>
+    <string name="erwin">Erwin</string>
+    <string name="naufal">Naufal </string>
+    <string name="fikri">Fikri</string>
+    <string name="yusuf">Yusuf</string>
+    <string name="friend1">Friend List</string>
+    <string name="raka">Raka Afrian Nurhakim</string>
+
+    <string name="galery">Gallery</string>
+    <string name="musikfav">Music Favorite</string>
+    <string name="vidiofav">Video Favorite</string>
+    <string name="musik1">Basket Case - Green Day</string>
+    <string name="musik2">Cheating On You - Charlie Puth</string>
+    <string name="musik3">Perfect - Simple Plan</string>
+    <string name="musik4">Wish You Were Here - Neck Deep</string>
+    <string name="musik5">Cancer - My Chemical Romance</string>
+    <string name="musik6">Drown - Bring Me The Horizon</string>
+    <string name="diary">Diary Misteri Sara</string>
+    <string name="kontak">Kontak Saya</string>
+    <string name="gmail">Rakaafrian00@gmail.com</string>
+    <string name="instagram">Rakaafrian_</string>
+    <string name="notlp">+62895365731500</string>
+    <string name="profile">PROFILE</string>
+
+
+</resources>

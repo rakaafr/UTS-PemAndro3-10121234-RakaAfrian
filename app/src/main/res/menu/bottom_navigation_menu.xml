@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemhome"
+        android:icon="@drawable/icon_menu_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/itemDailyActivity"
+        android:icon="@drawable/icon_menu_dailyactivity"
+        android:title="DailyActivity" />
+    <item
+        android:id="@+id/itemGallery"
+        android:icon="@drawable/icon_menu_gallery"
+        android:title="Gallery" />
+    <item
+        android:id="@+id/itemMusic"
+        android:icon="@drawable/icon_menu_music"
+        android:title="Music" />
+    <item
+        android:id="@+id/itemProfile"
+        android:icon="@drawable/icon_menu_profile"
+        android:title="Profile" />
+</menu>

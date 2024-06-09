@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/abu2"
+    tools:context=".ProfileFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="37dp"
+        android:text="@string/profile"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="1dp"
+        android:layout_marginBottom="200dp"
+        android:background="@drawable/paustad" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="240dp"
+        android:layout_marginBottom="100dp"
+        android:text="@string/raka"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="281dp"
+        android:layout_marginBottom="100dp"
+        android:text="@string/desk"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="150dp"
+        android:layout_marginTop="170dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/gmailb" />
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="0dp"
+        android:layout_marginTop="170dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/hp" />
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="160dp"
+        android:layout_marginTop="170dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/ig" />
+
+    <TextView
+        android:layout_width="287dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="420dp"
+        android:layout_marginBottom="100dp"
+        android:text="@string/kontak"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="31dp"
+        android:layout_marginTop="550dp"
+        android:layout_marginBottom="100dp"
+        android:layout_marginRight="280dp"
+        android:textSize="12dp"
+        android:text="@string/gmail"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="550dp"
+        android:layout_marginBottom="100dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginLeft="10dp"
+        android:textSize="12dp"
+        android:text="@string/notlp"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="31dp"
+        android:layout_marginTop="550dp"
+        android:layout_marginBottom="100dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginLeft="300dp"
+        android:textSize="12dp"
+        android:text="@string/instagram"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+
+</FrameLayout>
+
+    //  10 juni - 10121234 - Raka Afrian Nurhakim- PemAndro3

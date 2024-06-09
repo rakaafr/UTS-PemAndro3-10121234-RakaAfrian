@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/abu1"
+    tools:context=".MusicFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="37dp"
+        android:text="@string/musikfav"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="360dp"
+        android:layout_marginBottom="100dp"
+        android:text="@string/vidiofav"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="31dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginBottom="100dp"
+        android:text="@string/musik1"
+        android:textSize="17dp"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="31dp"
+        android:layout_marginTop="130dp"
+        android:layout_marginBottom="100dp"
+        android:text="@string/musik2"
+        android:textSize="17dp"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="31dp"
+        android:layout_marginTop="160dp"
+        android:layout_marginBottom="100dp"
+        android:text="@string/musik3"
+        android:textSize="17dp"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="31dp"
+        android:layout_marginTop="190dp"
+        android:layout_marginBottom="100dp"
+        android:text="@string/musik4"
+        android:textSize="17dp"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="31dp"
+        android:layout_marginTop="220dp"
+        android:layout_marginBottom="100dp"
+        android:text="@string/musik5"
+        android:textSize="17dp"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="31dp"
+        android:layout_marginTop="250dp"
+        android:layout_marginBottom="100dp"
+        android:text="@string/musik6"
+        android:textSize="17dp"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="100dp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="410dp"
+        android:layout_marginBottom="180dp"
+        android:background="@drawable/diary" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="460dp"
+        android:layout_marginBottom="100dp"
+        android:text="@string/diary"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="17dp" />
+
+
+
+</FrameLayout>
+
+    //  10 juni - 10121234 - Raka Afrian Nurhakim- PemAndro3

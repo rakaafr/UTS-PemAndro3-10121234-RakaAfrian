@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/abu2"
+    tools:context=".DailyFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="37dp"
+        android:text="@string/daily"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="160dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginBottom="250dp"
+        android:background="@drawable/sarapan1" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="341dp"
+        android:layout_height="32dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="100dp"
+        android:text="@string/sarapan"
+        android:textSize="20dp"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="160dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginBottom="170dp"
+        android:background="@drawable/kuliah" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="341dp"
+        android:layout_height="32dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="185dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="50dp"
+        android:text="@string/kuliah"
+        android:textSize="20dp"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="160dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginBottom="90dp"
+        android:background="@drawable/game" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="341dp"
+        android:layout_height="32dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="260dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="50dp"
+        android:text="@string/kuliah"
+        android:textSize="20dp"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="160dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/nongkrong" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="341dp"
+        android:layout_height="32dp"
+        android:layout_marginLeft="90dp"
+        android:layout_marginTop="340dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="50dp"
+        android:text="@string/nongkrong"
+        android:textSize="20dp"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="150dp"
+        android:layout_marginTop="170dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/ucup" />
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="60dp"
+        android:layout_marginTop="170dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/fikri" />
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="170dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/oppal" />
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="170dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/erwin" />
+
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="341dp"
+        android:layout_height="32dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="410dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="50dp"
+        android:text="@string/friend1"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="77dp"
+        android:layout_height="26dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="570dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="50dp"
+        android:text="@string/yusuf"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="77dp"
+        android:layout_height="26dp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="570dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="50dp"
+        android:text="@string/fikri"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="77dp"
+        android:layout_height="26dp"
+        android:layout_marginLeft="210dp"
+        android:layout_marginTop="570dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="50dp"
+        android:text="@string/naufal"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="77dp"
+        android:layout_height="26dp"
+        android:layout_marginLeft="310dp"
+        android:layout_marginTop="570dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="50dp"
+        android:text="@string/erwin"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+
+</FrameLayout>
+
+    //  10 juni - 10121234 - Raka Afrian Nurhakim- PemAndro3
